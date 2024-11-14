@@ -1,0 +1,11 @@
+#name {
+    color: blue;
+}
+#description {
+    color: white;
+    justify-content: center;
+}
+#container {
+    background-color: darkgray;
+    width: 50%;
+}
